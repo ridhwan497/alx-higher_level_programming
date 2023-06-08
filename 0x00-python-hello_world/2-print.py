@@ -1,4 +1,3 @@
 #!/usr/bin/python3
-#string to be printed
-string = '"Programming is like building a multilingual puzzle'
-print(string)
+#print the string
+print("\"Programming is like building a multilingual puzzle")
